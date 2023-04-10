@@ -1,0 +1,21 @@
+body {
+    background-color: #EAF6F6
+}
+/******************************TAG SELECTORS************************************/
+hr{
+ border-style: none;
+ border-top-style: dotted ;
+ border-color: grey;
+ border-width: 5px;
+ width: 10%; 
+}
+h1{color: #66BfBf;}
+h3{color:#66BfBf}
+img:hover{background-color: goldenrod;}
+
+/*********************************************CLASS SELECTORS***********************************************************************/
+
+
+.circular{border-radius: 50%;
+}
+ 
